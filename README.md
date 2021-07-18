@@ -22,7 +22,7 @@ Tech Conference allows attendees to register for an upcoming conference. Adminis
 ## [Voting App](https://github.com/HuyDucVo/voting-app)
 Voting App is a Python Flask-Redis powered web application allows user to vote for cat or dog or reset the vote count .
 <p align="center">
-<img src="https://github.com/HuyDucVo/voting-app/blob/main/submission-screenshots/voting_app.jpg" width="500px">
+<img src="https://github.com/HuyDucVo/voting-app/blob/main/submission-screenshots/voting_app.jpg" >
 </p>
 
 ## License
