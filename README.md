@@ -4,7 +4,7 @@ Cloud Developer using Microsoft Azure to deploy, build, migrate, and monitor app
 ## [Article Content Management System](https://github.com/HuyDucVo/Article-CMS-FlaskWebProject)
 Content Management System (CMS) for articles, where a user can log in, view published articles, and publish new articles.
 <p align="center">
-<a href="https://github.com/HuyDucVo/Article-CMS-FlaskWebProject">
+<a href="https://github.com/HuyDucVo/Article-CMS-FlaskWebProject" target="_blank">
 <img src="https://github.com/HuyDucVo/Article-CMS-FlaskWebProject/blob/master/content_management_system.jpg" width="500px">
 </a>
 </p>
@@ -12,7 +12,7 @@ Content Management System (CMS) for articles, where a user can log in, view publ
 ## [Neighborly App](https://github.com/HuyDucVo/NeighborlyApp)
 Neighborly is a Python Flask-powered web application that allows neighbors to post advertisements for services and products they can offer..
 <p align="center">
-<a href="https://github.com/HuyDucVo/NeighborlyApp">
+<a href="https://github.com/HuyDucVo/NeighborlyApp" target="_blank">
 <img src="https://github.com/HuyDucVo/NeighborlyApp/blob/master/images/neighborly_app%20(1).jpg" width="500px">
 </a>
 </p>
@@ -20,7 +20,7 @@ Neighborly is a Python Flask-powered web application that allows neighbors to po
 ## [Tech Conference](https://github.com/HuyDucVo/Tech-Conference)
 Tech Conference allows attendees to register for an upcoming conference. Administrators can also view the list of attendees and notify all attendees via a personalized email message.
 <p align="center">
-<a href="https://github.com/HuyDucVo/Tech-Conference">
+<a href="https://github.com/HuyDucVo/Tech-Conference" target="_blank">
 <img src="https://github.com/HuyDucVo/Tech-Conference/blob/main/screenshots/techconf.jpg" width="500px">
 </a>
 </p>
@@ -28,7 +28,7 @@ Tech Conference allows attendees to register for an upcoming conference. Adminis
 ## [Voting App](https://github.com/HuyDucVo/voting-app)
 Voting App is a Python Flask-Redis powered web application allows user to vote for cat or dog or reset the vote count.
 <p align="center">
-<a href="https://github.com/HuyDucVo/voting-app">
+<a href="https://github.com/HuyDucVo/voting-app" target="_blank">
 <img src="https://github.com/HuyDucVo/voting-app/blob/main/submission-screenshots/voting_app.jpg" >
 </a>
 </p>
